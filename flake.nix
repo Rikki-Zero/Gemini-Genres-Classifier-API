@@ -23,6 +23,7 @@
           python311Packages.fastapi
           python311Packages.uvicorn
           python311Packages.google-generativeai
+          python311Packages.python-multipart
         ];
         shellHook = ''
           unset LD
