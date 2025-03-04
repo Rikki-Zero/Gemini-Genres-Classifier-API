@@ -11,7 +11,7 @@ nix develop
 
 2. 启动API服务：
 ```bash
-python src/api.py
+python src/main.py
 ```
 
 3. 使用示例：
